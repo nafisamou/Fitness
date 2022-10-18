@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "name": "Cardio machine",
+      "img": "https://i.postimg.cc/RZh3r5Ns/photo.jpg",
+      "description":"This text presents a rigorously evidence-based case for exercise as an inexpensive, time-saving, and highly effective treatment for those suffering from mental illness and distress.",
+      "age": "20-25",
+      "time": 40
+    },
+    {
+      "id": 2,
+      "name": "Cardio machine",
+      "img": "https://cdn.muscleandstrength.com/sites/default/files/styles/400x250/public/taxonomy/image/workouts/workoutsformen.jpg?itok=jALf6fyP",
+      "description":"This text presents a rigorously evidence-based case for exercise as an inexpensive, time-saving, and highly effective treatment for those suffering from mental illness and distress.",
+      "age": "20-25",
+      "time": 30
+    },
+    
+    {
+      "id": 3,
+      "name": "Cardio machine",
+      "img": "https://w0.peakpx.com/wallpaper/301/421/HD-wallpaper-plank-fitness-girls-exercise-gym-workout.jpg",
+      "description":"This text presents a rigorously evidence-based case for exercise as an inexpensive, time-saving, and highly effective treatment for those suffering from mental illness and distress.",
+      "age": "20-25",
+      "time": 20
+    },
+    {
+      "id": 4,
+      "name": "Cardio machine",
+      "img": "https://i.postimg.cc/zGNrWn1n/photo-1.jpg",
+      "description":"This text presents a rigorously evidence-based case for exercise as an inexpensive, time-saving, and highly effective treatment for those suffering from mental illness and distress.",
+      "age": "20-25",
+      "time": 30
+    },
+    {
+      "id": 5,
+      "name": "Cardio machine",
+      "img": "https://i.postimg.cc/0NDSCV92/photo-2.jpg",
+      "description":"This text presents a rigorously evidence-based case for exercise as an inexpensive, time-saving, and highly effective treatment for those suffering from mental illness and distress.",
+      "age": "20-25",
+      "time": "20"
+    },
+    {
+      "id": 6,
+      "name": "Cardio machine",
+      "img": "https://i.postimg.cc/Pq5xCKNR/photo-3.jpg",
+      "description":"This text presents a rigorously evidence-based case for exercise as an inexpensive, time-saving, and highly effective treatment for those suffering from mental illness and distress.",
+      "age": "20-25",
+      "time": 50
+    },
+    {
+      "id": 7,
+      "name": "Cardio machine",
+      "img": "https://i.postimg.cc/26HnqVz4/istockphoto-1277242852-612x612-1.jpg",
+      "description":"This text presents a rigorously evidence-based case for exercise as an inexpensive, time-saving, and highly effective treatment for those suffering from mental illness and distress.",
+      "age": "20-25",
+      "time": 40
+    }
+    ,
+    {
+      "id": 8,
+      "name": "Cardio machine",
+      "img": "https://i.postimg.cc/kg1R9Dy8/photo.jpg",
+      "description":"This text presents a rigorously evidence-based case for exercise as an inexpensive, time-saving, and highly effective treatment for those suffering from mental illness and distress.",
+      "age": "25-30",
+      "time": 60
+    },
+    {
+      "id": 9,
+      "name": "Cardio machine",
+      "img": "https://i.postimg.cc/TwXDNF9H/photo-3.jpg",
+      "description":"This text presents a rigorously evidence-based case for exercise as an inexpensive, time-saving, and highly effective treatment for those suffering from mental illness and distress.",
+      "age": "25-40",
+      "time": 20
+    }
+    
+  ]
+  
